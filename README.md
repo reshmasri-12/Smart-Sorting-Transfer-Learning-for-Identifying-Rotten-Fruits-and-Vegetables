@@ -1,0 +1,2 @@
+# Smart-Sorting-Transfer-Learning-for-Identifying-Rotten-Fruits-and-Vegetables
+**Smart Sorting** uses transfer learning to detect rotten fruits and vegetables with high accuracy. From automating quality checks in food plants to scanning shipments in supermarkets and alerting users in smart homes, it reduces waste, boosts efficiency, and ensures fresher produce through intelligent image recognition.
